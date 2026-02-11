@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanjay R
 
-🎓 Recent Computer Science Graduate | 📊 Aspiring Data Analyst  
+🎓 Computer Science Graduate | 📊 Aspiring Data Analyst  
 🚀 Passionate about turning data into insights with Python, SQL, Power BI, and Excel  
 📍 Open to full-time Data Analyst roles  
 
