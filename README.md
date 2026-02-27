@@ -24,7 +24,7 @@
 ### 🔸 [Library Management System (SQL)](https://github.com/Sanjayr1904/Library-Management-System)
 - MySQL-based system to manage books, users, and logs
 - Tools: SQL
-- 
+  
 ### 🔸 [Pizza Sales Dashboard (Power BI, SQL)](https://github.com/Sanjayr1904/pizza-sales-dashboard)
 
 - Analyzed sales data using SQL and Power BI  
