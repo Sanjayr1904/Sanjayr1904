@@ -44,7 +44,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sanjay-190401-r/)
 - 📧 Email: sanjayr1904@gmail.com
-- 📂 [Resume](#) _(upload to Google Drive or GitHub and add link)_
+- 📂 [Resume](https://github.com/Sanjayr1904/resume)
 
 ---
 
