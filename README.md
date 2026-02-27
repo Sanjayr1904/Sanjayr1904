@@ -39,7 +39,7 @@
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sanjay-190401-r/)
-- 📧 Email: sanjayr1904@gmail.com
+- 📧 Email: sanjayrsanju46@gmail.com
 - 📂 [My Resume](https://github.com/Sanjayr1904/resume/raw/main/Sanjay_R_Data_Analyst.pdf)
 
 ---
