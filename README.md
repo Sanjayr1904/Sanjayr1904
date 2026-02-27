@@ -25,15 +25,11 @@
 - MySQL-based system to manage books, users, and logs
 - Tools: SQL
 - 
-### Pizza Sales Dashboard (Power BI, SQL)
+### 🔸 [Pizza Sales Dashboard (Power BI, SQL)](https://github.com/Sanjayr1904/pizza-sales-dashboard)
 
 - Analyzed sales data using SQL and Power BI  
 - Built KPI dashboard to track revenue trends  
 - Tools: SQL, Power BI, Excel  
-
-Repo link:
-https://github.com/Sanjayr1904/pizza-sales-dashboard
----
 
 ## 🧠 Skills & Tools
 
