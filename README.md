@@ -9,24 +9,24 @@
 ## 📌 Featured Portfolio Projects
 
 ### 🔸 [HR Analytics Dashboard (Power BI)](https://github.com/Sanjayr1904/HR-Analytics-Dashboard)
-- Interactive dashboard analyzing attrition, job roles, and satisfaction
-- **Tools**: Power BI, Excel
-- 📸 Screenshots & file download available in my repository
+- **Interactive dashboard, analyzing attrition, job roles, and satisfaction**
+- **Tools: Power BI, Excel**
+- **📸 Screenshots & file download available in my repository**
 
 ### 🔸 [Sales Analysis Dashboard (Excel)](https://github.com/Sanjayr1904/Sales-Analysis-Excel)
-- Region-wise sales KPIs with Excel charts and slicers
-- Tools: Excel, PivotTables
-- 📸 Screenshots & file download available in my repository
-- 
+- **Region-wise sales KPIs with Excel charts and slicers**
+- **Tools: Excel, PivotTables**
+- **📸 Screenshots & file download available in my repository**
+  
 ### 🔸 [Library Management System (SQL)](https://github.com/Sanjayr1904/Library-Management-System)
-- MySQL-based system to manage books, users, and logs
-- Tools: SQL
+- **MySQL-based system to manage books, users, and logs**
+- **Tools: SQL**
   
 ### 🔸 [Pizza Sales Dashboard (Power BI, SQL)](https://github.com/Sanjayr1904/pizza-sales-dashboard)
-- Analyzed sales data using SQL and Power BI  
-- Built KPI dashboard to track revenue trends  
-- Tools: SQL, Power BI, Excel  
-- 📸 Screenshots & file download available in my repository
+- **Analyzed sales data using SQL and Power BI** 
+- **Built KPI dashboard to track revenue trends** 
+- **Tools: SQL, Power BI, Excel**
+- **📸 Screenshots & file download available in my repository**
 
 ## 🧠 Skills & Tools
 
