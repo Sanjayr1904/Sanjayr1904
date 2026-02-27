@@ -13,10 +13,6 @@
 - Tools: Power BI, Excel
 - 📸 Screenshots & file download available in the repo
 
-### 🔸 [Flight Price Prediction (Python)](https://github.com/Sanjayr1904/Flight-Price-Prediction)
-- ML model predicting flight prices using regression
-- Tools: Python, Pandas, Sklearn, Jupyter
-
 ### 🔸 [Sales Analysis Dashboard (Excel)](https://github.com/Sanjayr1904/Sales-Analysis-Excel)
 - Region-wise sales KPIs with Excel charts and slicers
 - Tools: Excel, PivotTables
