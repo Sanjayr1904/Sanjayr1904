@@ -40,7 +40,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sanjay-190401-r/)
 - 📧 Email: sanjayr1904@gmail.com
-- 📂 [Resume](https://github.com/Sanjayr1904/resume)
+- 📂 [Resume](https://github.com/Sanjayr1904/resume/raw/main/Sanjay_R_Data_Analyst.pdf)
 
 ---
 
